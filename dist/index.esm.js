@@ -342,8 +342,8 @@ var Icon$p = function (props) {
 };
 
 var Icon$q = function (props) {
-    return (React.createElement(Svg, __assign({ viewBox: "0 0 32 32" }, props),
-        React.createElement("image", { width: "32", height: "32", href: "https://ik.imagekit.io/sih3mpiiiaae/wagyuswap-logo-text_uhU0sJo3w.svg" })));
+    return (React.createElement(Svg, __assign({ viewBox: "0 0 150 150" }, props),
+        React.createElement("image", { width: "150", height: "150", href: "https://ik.imagekit.io/sih3mpiiiaae/cattle-navbar-icon_yJVQFn_n-.svg" })));
 };
 
 var Icon$r = function (props) {
@@ -1885,9 +1885,9 @@ var Icon$T = function (props) {
 };
 
 var Logo = function (_a) {
-    var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
+    _a.isDark; var props = __rest(_a, ["isDark"]);
     return (React.createElement(Svg, __assign({ viewBox: "0 0 205 39" }, props),
-        React.createElement("image", { width: "205", height: "40", href: isDark ? "#" : "#" })));
+        React.createElement("image", { width: "205", height: "40", href: "https://ik.imagekit.io/sih3mpiiiaae/wagyuswap-logo-text_uhU0sJo3w.svg" })));
 };
 
 var Icon$U = function (props) {
